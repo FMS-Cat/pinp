@@ -1,0 +1,15 @@
+{
+  "name": "pinp",
+  "version": "1.0.0",
+  "description": "picture-in-picture style browser window",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fms-cat",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
